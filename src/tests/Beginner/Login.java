@@ -1,4 +1,4 @@
-package tests;
+package tests.Beginner;
 
 public class Login {
     public static void main(String[] args) {
@@ -6,7 +6,12 @@ public class Login {
         String surName = "Berger";
 
         System.out.println(name+" "+surName);
+        System.out.println("I ADDED THIS LINE ");
+
+
     }
 
 
 }
+
+

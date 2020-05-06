@@ -1,4 +1,4 @@
-package tests;
+package tests.Beginner;
 
 public class Variables {
     public static void main(String args[]) {

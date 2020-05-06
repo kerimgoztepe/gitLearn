@@ -1,4 +1,4 @@
-package tests;
+package tests.Beginner;
 
 public class TestAnother {
     public static void main(String[] args) {
